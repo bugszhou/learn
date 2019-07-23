@@ -1,9 +1,9 @@
 module.exports = {
   host: 'localhost',
-  base: '/',
+  base: '/index/',
   port: 8666,
-  title: '我的学习图谱',
-  description: '前端学习分享',
+  title: '我的程序猿历程',
+  description: '程序猿的学习分享',
   themeConfig: {
     editLinks: false,
     docsDir: 'docs',
