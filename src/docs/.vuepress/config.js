@@ -21,6 +21,7 @@ module.exports = {
         collapsable: false,
         children: [
           'knowledge/',
+          'knowledge/must',
         ],
       },
       // {
