@@ -90,4 +90,14 @@
 暂未更新
 [点击查看详情](https://github.com/bugszhou)
 
+### 19. Nginx
+
+暂未更新
+[点击查看详情](https://github.com/bugszhou)
+
+### 20. UI自动化测试之airtest
+
+暂未更新
+[点击查看详情](https://github.com/bugszhou)
+
 ### 99. 待定...
