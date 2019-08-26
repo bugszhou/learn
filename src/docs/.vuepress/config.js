@@ -2,7 +2,7 @@ module.exports = {
   host: 'localhost',
   base: '/index/',
   port: 8666,
-  title: '我的程序猿历程',
+  title: '程序猿历程',
   description: '程序猿的学习分享',
   themeConfig: {
     editLinks: false,
@@ -17,7 +17,7 @@ module.exports = {
         ],
       },
       {
-        title: '我的程序猿之路',
+        title: '程序猿之路',
         collapsable: false,
         children: [
           'knowledge/',
